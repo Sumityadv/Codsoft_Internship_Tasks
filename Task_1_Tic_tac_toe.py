@@ -68,7 +68,7 @@ while True:
             print("Invalid move. Try again.")
             continue
 
-        if check_win(Player):                                                       # this function will be the real time game loop where playing occurs
+        if check_win(Layout, Player):                                                       # this function will be the real time game loop where playing occurs
             print_Layout(Layout)
             print("Player wins!")
             break
