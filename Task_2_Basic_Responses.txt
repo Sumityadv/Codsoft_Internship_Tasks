@@ -1,0 +1,5 @@
+hi|hello|hey|greetings: Hello! How can I assist you?
+what is your name: I'm a simple Bot.
+how are you: I'm just a program, so I don't have feelings, but I'm here to help you!
+what's the weather like: I'm sorry, I don't have access to real-time weather information.
+bye|goodbye: Goodbye! Have a great day!
